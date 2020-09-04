@@ -4,6 +4,7 @@
 - joern: This folder contains the source code of joern, which is used to extract AST and CFG.
 - script: This folder contains the deep learning model to complete the analysis tasks used in our experiment.
 - src: This folder contains the code of extracting the syntactic and semantic embedding features of the C++ source code. 
+- data: This folder contains the fusion feature data of three analysis tasks.
 
 ## Usage
 ### Generating the embedding features
